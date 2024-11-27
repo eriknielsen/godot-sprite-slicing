@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1732693415
+icon.png::CompressedTexture2D::4199066504287766279::1732607232::1732607322::1::::<><>::
+icon.svg::CompressedTexture2D::4691814875368596011::1732607232::1732607322::1::::<><>::
+README.md::TextFile::-1::1732607232::0::1::::<><>::
+Sliceable2D.gd::GDScript::-1::1732607286::0::1::::Sliceable2D<>RigidBody2D<>::
+Slicer2D.gd::GDScript::-1::1732607951::0::1::::Slicer2D<>Node2D<>::
+::res://demo/::1732607997
+apple.png::CompressedTexture2D::94908517216870696::1732607232::1732607322::1::::<><>::
+Fruit.gd::GDScript::-1::1732607286::0::1::::<>Sliceable2D<>::
+Fruit.tscn::PackedScene::1784898953547540511::1732607997::0::1::::<><>::res://demo/Fruit.gd<>uid://bl8enuoivntg::::res://demo/apple.png
+TestScene.gd::GDScript::-1::1732607994::0::1::::<>Node2D<>::
+TestScene.tscn::PackedScene::6398634488212671647::1732607997::0::1::::<><>::res://demo/TestScene.gd<>res://Slicer2D.gd<>uid://0ova35ejcmrn::::res://demo/Fruit.tscn
